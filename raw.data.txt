@@ -1,0 +1,213 @@
+1	4 Shadow Tree Lane LLC	New York, NY	LLC	President	9/26/12	To Date
+2	4 Shadow Tree Lane Member Corp	New York, NY	Corporation	President/Director/Chairman	9/26/12	To Date
+3	40 Wall Development Associates LLC	New York, NY	LLC	Member & President	4/11/95 & 6/11/03	To Date
+4	40 Wall Street Commercial LLC	New York, NY	LLC	President	8/27/09	To Date
+5	40 Wall Street LLC	New York, NY	LLC	President	4/23/98	To Date
+6	40 Wall Street Member Corp	New York, NY	Corporation	President/Director	4/29/98	To Date
+7	3126 Corporation	New York, NY	Corporation	President/Director	6/1/99	To Date
+8	401 Mezz Venture LLC	New York, NY	LLC	President	10/1/04	To Date
+9	401 North Wabash Venture LLC	New York, NY	LLC	Member & President	5/22/02 & 10/1/04	To Date
+10	55 Wall Development Corp	New York, NY	Corporation	President/Director	9/18/96	10/14/14
+11	767 Manager LLC	New York, NY	LLC	Member & President	5/28/1998 & 8/2000	To Date
+12	809 North Canon LLC	New York, NY	LLC	President	12/13/06	To Date
+13	809 North Canon Member Corporation	New York, NY	Corporation	President/Director	12/13/06	To Date
+14	81 Pine Note Holder Inc	New York, NY	Corporation	President/Director/Secretary	6/30/99	To Date
+15	Aviation Payroll Company	New York, NY	Corporation	President/Chairman	8/9/12	To Date
+16	B Plaza Realty Corp.	New York, NY	Corporation	Director/President	7/14/81	To Date
+17	Bedford Hills Corp	New York, NY	Corporation	Director & President/Treasurer/Secretary	8/3/1995 & 4/16/96	To Date
+18	Briar Hall Operations LLC	New York, NY	LLC	Member	1/9/97	To Date
+19	Briarcliff Properties, Inc.	New York, NY	Corporation	Director & President/Treasurer/Secretary	1/17/1996 & 4/16/96	To Date
+20	Cartbusiness MRE LLC	New York, NY	LLC	Member	3/13/13	To Date
+21	Cartbusiness RE Corp, The	New York, NY	Corporation	Director/Chairman/President	3/12/15	To Date
+22	Chelsea Hall LLC	New York, NY	LLC	Member	11/22/95	To Date
+23	Chicago Unit Acquisition LLC	New York, NY	LLC	Member/President	12/15/05	To Date
+24	China Trademark LLC	New York, NY	LLC	Member/President	6/17/08	To Date
+25	Coronet Hall Inc.	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
+26	Development Member Inc.	New York, NY	Corporation	President/Secretary & Director	10/24/1996 & 11/4/96	To Date
+27	D B Pace Acquisition, LLC	South Carolina	LLC	Member/President	11/12/14	To Date
+28	D B Pace Acquisition Member Corp	New York, NY	Corporation	Chairman/President/Director	11/7/14	To Date
+29	DJT Aerospace LLC	Atlantic City, NJ	LLC	Member/President	6/2/10	To Date
+30	DJ Aerospace (Bermuda) Limited	Bermuda	Foreign Corporation	President/Director	3/9/94	To Date
+31	DJT Entrepreneur Managing Member LLC (f/k/a DJT University Managing Member LLC)	New York, NY	LLC	Member & President	10/25/04	To Date
+32	DJT Entrepreneur Member LLC (f/k/a DJT University Member LLC)	New York, NY	LLC	Member & President	10/25/04	To Date
+33	DJT Holdings LLC	New York, NY	LLC	Member & President	11/29/2010 & 12/2/2010	To Date
+34	DJT Holdings Managing Member LLC	New York, NY	LLC	Member & President	12/2/10	To Date
+35	DJT Land Holdings Member Corp	New York, NY	Corporation	President/Director	1/16/12	To Date
+36	DJT Operations I LLC	Palm Beach, Florida	LLC	Member/President	7/15/10	To Date
+37	DJT Operations II LLC	Palm Beach, Florida	LLC	Member/President	7/15/10	To Date
+38	DJT Operations CX LLC	Waterbury, CT	LLC	Member/President	9/12/12	To Date
+39	DSN Licensing LLC (f/k/a Trump Marks Network LLC)	New York, NY	LLC	Member/President	2/26/09	To Date
+40	DSN Licensing Member Corp (f/k/a Trump Marks Network Member Inc)	New York, NY	Corporation	Director/Chairman & President	1/14/2009 & 2/26/09	To Date
+41	DT APP Warrant Holding LLC	New York, NY	LLC	Member/President	3/2/12	To Date
+42	DT APP Warrant Holding Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	3/2/12	To Date
+43	DT Connect II LLC	Palm Beach, Florida	LLC	Member/President	7/31/14	To Date
+44	DT Connect II Member Corp	Palm Beach, Florida	Corporation	Director/Chairman/President	7/31/14	To Date
+45	DT Connect LLC	Palm Beach, Florida	LLC	Member/President	2/27/12	To Date
+46	DT Connect Managing Member Corp	Palm Beach, Florida	Corporation	Director/Chairman/President	2/27/12	To Date
+47	DT Dubai Golf Manager LLC	New York, NY	LLC	Member/President	3/20/13	To Date
+48	DT Dubai Golf Manager Member Corp	New York, NY	Corporation	Director/Chairman/President	3/20/13	To Date
+49	DT Dubai II Golf Manager LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+50	DT Dubai II Golf Manager Member Corp	New York, NY	Corporation	Director/Chairman/President	10/30/14	To Date
+51	DT Home Marks International LLC	New York, NY	LLC	Member/President	7/12/13	To Date
+52	DT Home Marks International Member Corp	New York, NY	Corporation	Director/Chairman/President	7/12/13	To Date
+53	DT India Venture LLC	New York, NY	LLC	Member/President	1/9/12	To Date
+54	DT India Venture Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	1/9/12	To Date
+55	DT Marks Baku LLC	New York, NY	LLC	Member/President	4/10/12	To Date
+56	DT Marks Baku Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	4/10/12	To Date
+57	DT Marks Dubai LLC	New York, NY	LLC	Member/President	9/5/13	To Date
+58	DT Marks Dubai Member Corp	New York, NY	Corporation	Director/Chairman/President	9/5/13	To Date
+59	DT Marks Dubai II LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+60	DT Marks Dubai II Member Corp	New York, NY	Corporation	Director/Chairman/President	10/30/14	To Date
+61	DT Marks Gurgaon LLC	New York, NY	LLC	Member/President	10/28/14	To Date
+62	DT Marks Gurgaon Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	10/30/14	To Date
+63	DT Marks Jersey City LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+64	DT Marks Jupiter City LCC	New York, NY	LLC	Member/President	8/29/14	To Date
+65	DT Marks Qatar LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+66	DT Marks Qatar Member Corp	New York, NY	Corporation	Director/Chairman/President	10/30/14	To Date
+67	DT Marks Products International LLC	New York, NY	LLC	Member/President	9/13/13	To Date
+68	DT Marks Products International Member Corp	New York, NY	Corporation	Director/Chairman/President	9/13/13	To Date
+69	DT Marks Pune LLC	New York, NY	LLC	Member/President	1/9/12	To Date
+70	DT Marks Pune Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	1/9/12	To Date
+71	DT MARKS PUNE II LLC	New York, NY	LLC	Member/President	6/18/14	To Date
+72	DT Marks Pune II Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	6/18/14	To Date
+73	DT Marks Rio LLC	New York, NY	LLC	Member/President	3/9/12	To Date
+74	DT Marks Rio Member Corp	New York, NY	Corporation	Director/Chairman/President	3/9/12	To Date
+75	DT Marks Vancouver LP	New York, NY	Partnership	Partner/President	1/22/13	To Date
+76	DT Marks Vancouver Manager Corp	New York, NY	Corporation	Director/Chairman/President	1/22/13	To Date
+77	DT Marks Worli LLC	New York, NY	LLC	Member/President	5/21/13	To Date
+78	DT Marks Worli Member Corp	New York, NY	Corporation	Director/Chairman/President	5/21/13	To Date
+79	DT Tower Gurgaon LLC	New York, NY	LLC	Member/President	3/9/15	To Date
+80	DT Tower Gurgaon Managing Member Corp	New York, NY	Corporation	Director/Chairman/President	3/9/15	To Date
+81	DTW Venture LLC	New York, NY	LLC	Member	3/14/14	To Date
+82	DTW Venture Managing Member Corp	New York, NY	Corporation	Director/President	4/14/14	To Date
+83	East 61 St Company, L.P., The	New York, NY	Partnership	Partner	12/6/96	To Date
+84	EID Venture I LLC	New York, NY	LLC	Member	5/1/13	To Date
+85	EID Venture I Corporation	New York, NY	Corporation	President/Director	5/1/13	To Date
+86	Excel Venture I LLC	St. Martin, French West India	LLC	President/Secretary/Treasurer/Member	7/1/13	To Date
+87	Excel Venture I Corp.	St. Martin, French West India	Corporation	Director/Chairman/President	7/1/13	To Date
+88	Fifty Seven Management Corp	New York, NY	Corporation	Director/Chairman	8/23/12	To Date
+89	Fifty Seventh Street Associates LLC	New York, NY	LLC	President	11/30/95	To Date
+90	First Member, Inc	New York, NY	Corporation	President	9/26/96	To Date
+91	Flights, Inc. (Formerly Trump Flights, Inc.)	New York, NY	Corporation	President/Treasurer/Director	7/1/99	To Date
+92	Florida Properties Management LLC	New York, NY	LLC	Member	12/17/01	To Date
+93	Fontainbleu Apartments LLC	Palm Beach, Florida	LLC	Member	12/22/95	To Date
+94	Golf Productions LLC	New York, NY	LLC	Member/President	6/16/09	To Date
+95	Golf Productions Member Corp.	New York, NY	Corporation	President/Director/Chairman	6/16/09	To Date
+96	Golf Recreation Scotland Limited	Turnberry, Scotland	Foreign Entity	Director	4/18/14	To Date
+97	Helicopter Air Services, Inc.	New York, NY	Corporation	President	6/16/88	To Date
+98	Highlander Hall, Inc	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
+99	Hudson Waterfront Associates I, L.P.	New York, NY	Partnership	Partner	11/30/94	To Date
+100	Hudson Waterfront Associates II, L.P.	New York, NY	Partnership	Partner	11/30/94	To Date
+101	Hudson Waterfront Associates III, L.P.	New York, NY	Partnership	Partner	11/30/94	To Date
+102	Hudson Waterfront Associates IV, L.P.	New York, NY	Partnership	Partner	11/30/94	To Date
+103	Hudson Waterfront Associates V, L.P.	New York, NY	Partnership	Partner	11/30/94	To Date
+104	Hudson Waterfron Associates, L.P.	New York, NY	Partnership	Partner	6/30/94	To Date
+105	Identity Theft Productions LLC	New York, NY	LLC	Member/President	4/2/09	5/1/14
+106	Identity Theft Productions Member Corp	New York, NY	Corporation	President/Director	4/2/09	5/1/14
+107	Indian Hills Holdings LLC f/k/a Indian Hills Development LLC	New York, NY	LLC	Member/President	2/5/1998 & 8/2000	To Date
+108	Jupiter Golf Club LLC	New York, NY	LLC	President	9/28/12	To Date
+109	Jupiter Golf Club Managing Mbmer Corp	New York, NY	Corporation	President/Director/Chairman	9/28/12	To Date
+110	Lamington Family Holdings LLC	New York, NY	LLC	President/Member	7/7/2011 & 7/6/2011	To Date
+111	Lawrence Towers Apartments LLC	New York, NY	LLC	Member	11/22/95	To Date
+112	LFB Acquisition LLC	New York, NY	LLC	President	8/29/02	To Date
+113	LFB Acquisition Member Corp	New York, NY	Corporation	President/Director/Chairman	11/9/11	To Date
+114	Mar A Lago Club, Inc	Palm Beach, Florida	Corporation	President/Treasurer/Secretary	4/16/96	To Date
+115	Mar A Lago Club, L.L.C.	New York, NY	LLC	Member/President	1/14/10	To Date
+116	Midland Associates	New York, NY	Partnership	Partner	5/15/68	To Date
+117	Miss Universe L.P., L.L.L.P. (Formerly Trump Pageants, L.P.)	New York, NY	Partnership	Partner	Oct-96	To Date
+118	Nitto World Co., Limited	Turnberry, Scotland	Foreign Entity	Director	6/11/14	To Date
+119	Ocean Development Member Inc.	New York, NY	Corporation	President/Director	3/6/07	To Date
+120	Ocean Development Services LLC	New York, NY	LLC	Member	3/6/07	To Date
+121	OPO Hotel Manager LLC	New York, NY	LLC	President	6/12/13	To Date
+122	OPO Hotel Manager Member Corp	New York, NY	Corporation	Director/Chairman/President	6/12/13	To Date
+123	OWO Developer LLC	New York, NY	LLC	President/Member	11/5/14	To Date
+124	Panama Ocean Club management LLC	New York, NY	LLC	Member/President	8/5/10	To Date
+125	Panama Ocean Club Management Member Corp	New York, NY	Corporation	President/Chairman/Director	8/5/10	To Date
+126	Paramount RPV Holdings LLC	New York, NY	LLC	Member/President	11/7/2011 & 1/3/13	To Date
+127	Paramount RPV Holdings manager Corp	New York, NY	Corporation	President/Director/Chairman	1/3/13	To Date
+128	Parc Consulting, Inc.	New York, NY	Corporation	President/Director/Secretary	6/1/99	To Date
+129	Park Briar Associates	New York, NY	Partnership	Partner	6/24/69	To Date
+130	Pine Hill Development Managing Member Corp	New York, NY	Corporation	Director & Chariman/President	4/19/14 & 4/15/14 & 4/15/14	To Date
+131	Pine Hill Development LLC	New York, NY	LLC	President	4/15/14	To Date
+132	Plaza Consulting Corp	New York, NY	Corporation	President	10/22/86	To Date
+133	Poker Venture LLC	New York, NY	LLC	Member/President	3/19/12	To Date
+134	Poker Venture Managing Member Corp	New York, NY	Corporation	Director/President/Chairman	3/19/12	To Date
+135	Reg Tru Equities, LTD.	New York, NY	Corporation	Director/President/Secretary/Treasurer	8/7/90 & 8/26/77	To Date
+136	RPV Development LLC	New York, NY	LLC	Member/President	8/6/02	To Date
+137	Scotland Acquisitions LLC	New York, NY	LLC	Member/President	3/21/06	To Date
+138	Sentient Jets LLC (Now/Known/As Trump Jets LLC)	New York, NY	LLC	Member	9/25/08	To Date
+139	Sentient Jets Member Corp	New York, NY	Corporation	President/Director	9/25/08	To Date
+140	Seven Springs LLC	New York, NY	LLC	President	Dec-95	To Date
+141	Shore Haven Management Corp	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
+142	Shore Haven Apt#1,Inc	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
+143	Shore Haven Shopping Cener LLC	New York, NY	LLC	Member	11/22/95	To Date
+144	SLC Turnberry Limited	Turnberry, Scotland	Foreign Entity	Director/Chairman	6/11/14	To Date
+145	South Beach Venture LLC (fka THC Marks Rio LLC)	New York, NY	LLC	President	8/15/13	11/20/13
+146	South Beach Venture Member Com (fka THC Marks Rio Member Corp)	New York, NY	Corporation	President/Chairman/Director	7/10/2013 & 8/15/13 & 8/15/13	11/20/13
+147	Sussex Hall, inc.	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
+148	Restaurant 40 LLC	New York, NY	LLC	Member/President	12/21/2011 & 21/24/11	To Date
+149	Restaurant 40 Member Corp	New York, NY	Corporation	President/Director/Chairman/Treasurer/Secretary	12/24/11	To Date
+150	T International Realty LLC (dba Trump international Realty)	New York, NY	LLC	Member/President	9/12/12	To Date
+151	Tag Air, Inc.	New York, NY	Corporation	President/Director	8/24/10	To Date
+152	TB Member LLC	New York, NY	LLC	Member	7/7/07	11/12/13
+153	THC Baku Hotel Manager Services LLC	New York, NY	LLC	President/Member	12/19/14	To Date
+154	THC Baku Hotel Manager Services Member Corp.	New York, NY	Corporation	Director/Chairman/President	12/19/14	To Date
+155	THC Baku Services LLC	New York, NY	LLC	Member/President	12/10/14	To Date
+156	THC Baku Services Member Corp	New York, NY	Corporation	Director/Chairman/President	12/10/14	To Date
+157	THC Barra Hotelaria LTDA.	Brazil	Foreign Entity	Member	4/15/14	To Date
+158	THC Central Reservations LLC	New York, NY	LLC	Member/President	9/16/13	To Date
+159	THC Central Reservations Member Corp	New York, NY	Corporation	Chairman/Director/President	9/16/13	To Date
+160	THC China Development LLC (fka Trump China Development LLC)	New York, NY	LLC	President	2/20/08	To Date
+161	THC China Development Management Corp (fka Trump China Development Management Corp)	New York, NY	Corporation	Chairman/Director/President	9/20/12	To Date
+162	THC Development Brazil managing Member Corp	New York, NY	Corporation	Chairman/Director/President	9/20/12	To Date
+163	THC Development Brazil LLC	New York, NY	LLC	Member/President	5/15/13	To Date
+164	THC Dubai II Hotel Manager LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+165	THC Dubai II Hotel Manager Member Corp	New York, NY	Corporation	Chairman/Director/President	10/30/14	To Date
+166	THC Hotel Development LLC	New York, NY	LLC	Member/President	10/11/12	To Date
+167	THC IMEA Development LLC	New York, NY	LLC	President	1/16/12	To Date
+168	THC Miami Restaurant Hospitality Member Corp	New York, NY	Corporation	Chairman/Director/President	2/1/13	To Date
+169	THC Miami Restaurant Hospitality LLC	New York, NY	LLC	Member/President	2/1/13	To Date
+170	THC Rio Managing Member Corp	New York, NY	Corporation	Chairman/Director/President	4/11/13	To Date
+171	THC Rio Manager LLC	New York, NY	LLC	Member/President	4/11/13	To Date
+172	THC Sales & Marketing LLC	New York, NY	LLC	Member/President	9/17/13	To Date
+173	THC Sales & Marketing Member Corp	New York, NY	Corporation	Chairman/Director/President	9/17/13	To Date
+174	THC China Technical Services Manager Corp	New York, NY	Corporation	Chairman/Director/President	5/16/14	To Date
+175	THC China Technical Services LLC	New York, NY	LLC	Member/President	5/16/14	To Date
+176	THC Qatar Hotel Manager LLC	New York, NY	LLC	Member/President	10/30/14	To Date
+177	THC Qatar Hotel Manager Member Corp	New York, NY	Corporation	Chairman/Director/President	10/30/14	To Date
+178	THC Services Shenzhen LLC	New York, NY	LLC	Member/President	11/25/14	To Date
+179	THC Services Shenzhen Member Corp	New York, NY	Corporation	Chairman/Director/President	11/25/14	To Date
+180	THC Shenzhen Hotel Manager LLC	New York, NY	LLC	Member/President	11/25/14	To Date
+181	THC Shenzhen Hotel Manager Member Corp	New York, NY	Corporation	Chairman/Director/President	11/25/14	To Date
+182	THC Vancouver Management Corp	New York, NY	Corporation	Chairman/Director/President	1/23/13	To Date
+183	THC Vancouver Payroll ULC	British Columbia (Canada)		Director/President	2/20/15	To Date
+184	THC Venture I LLC	New York, NY	LLC	Member/President	3/14/14	To Date
+185	THC Venture II LLC	New York, NY	LLC	Member/President	3/14/14	To Date
+186	THC Venture III LLC	New York, NY	LLC	President/Member	10/27/14	To Date
+187	THC Venture I Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	3/14/14	To Date
+188	THC Venture II Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	3/14/14	To Date
+189	THC Venture III Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	10/27/14	To Date
+190	The Donald J. Trump Foundation, Inc.	New York, NY	Non profit	Director	2/18/87	To Date
+191	The Trump Corporation	New York, NY	Corporation	Director/President/Chairman	7/30/80	To Date
+192	The Trump Follies Member Inc.	New York, NY	Corporation	Chairman/Director/President	12/13/10	To Date
+193	The Trump Equitable Fifth Avenue Company	New York, NY	Partnership	Partner	1/30/80	To Date
+194	TIGL Common Area Management Corp	New York, NY	Corporation	President/Director	2/21/14	To Date
+195	TIGL Common Area Management Holdings LLC	New York, NY	LLC	Member/President	2/21/14	To Date
+196	TIGL Ireland Enterprises Limited	Doonbeg, Ireland	Foreign Entity	Director/President	2/24/14	To Date
+197	TIGL Ireland Management Limited	Doonbeg, Ireland	Foreign Entity	President/Director	2/24/14	To Date
+198	TIHC Reservations LLC	New York, NY	LLC	Member/President	8/9/10	To Date
+199	TIHH Member Corp	New York, NY	Corporation	President/Director	9/10/09	To Date
+200	TIHH Member LLC	New York, NY	LLC	Member/President	9/10/09	To Date
+201	TIHM Member Corp	New York, NY	Corporation	President/Director	6/13/06	To Date
+202	TIHM Member Corp	New York, NY	LLC	President	6/3/04	To Date
+203	TIHT Commercial LLC	New York, NY	LLC	Member/President	12/30/98	To Date
+204	TIHT Holding Company LLC	New York, NY	LLC	Member/President	1/18/05	To Date
+205	TIHT Member LLC	New York, NY	LLC	Member/President	7/20/06	To Date
+206	Tipperary Realty Corp.	New York, NY	Corporation	President/Treasurer/Director	11/13/75	To Date
+207	TMG Member, LLC	New York, NY	LLC	Member	1/15/99	To Date
+208	TNGC Charlotte LLC	New York, NY	LLC	President	10/20/11	To Date
+209	TNGC Charlotte Manager Corp	New York, NY	Corporation	President/Chairman/Director	10/20/11	To Date
+210	TNGC Dutchess County LLC (fka Trump Marks Classic Cars LLC)	New York, NY	LLC	President	11/17/99	To Date
+211	TNGC Dutchess County Member Corp (fka Trump Marks Classic Cars Member Corp)	New York, NY	Corporation	President/Chairman/Director	11/17/99	To Date
+212	TNGC Jupiter Management LLC	New York, NY	LLC	President	6/26/14	To Date
+213	TNGC Jupiter Managing Member Corp	New York, NY	Corporation	President/Chairman/Director	6/26/14	To Date

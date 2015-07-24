@@ -1,0 +1,10 @@
+<header>
+<h1>Trumptastic Logo Here?</h1>
+<nav>
+	<ul>
+	<% $nav.each do | route, hash | %>
+		<li><a href="<%= route %>"><%= hash[:nav] %></a></li>
+	<% end %>
+	</ul>
+</nav>
+</header>
