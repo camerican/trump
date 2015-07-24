@@ -27,7 +27,7 @@
 27	D B Pace Acquisition, LLC	South Carolina	LLC	Member/President	11/12/14	To Date
 28	D B Pace Acquisition Member Corp	New York, NY	Corporation	Chairman/President/Director	11/7/14	To Date
 29	DJT Aerospace LLC	Atlantic City, NJ	LLC	Member/President	6/2/10	To Date
-30	DJ Aerospace (Bermuda) Limited	Bermuda	Foreign Corporation	President/Director	3/9/94	To Date
+30	DJ Aerospace (Bermuda) Limited	Bermuda	Foreign Entity	President/Director	3/9/94	To Date
 31	DJT Entrepreneur Managing Member LLC (f/k/a DJT University Managing Member LLC)	New York, NY	LLC	Member & President	10/25/04	To Date
 32	DJT Entrepreneur Member LLC (f/k/a DJT University Member LLC)	New York, NY	LLC	Member & President	10/25/04	To Date
 33	DJT Holdings LLC	New York, NY	LLC	Member & President	11/29/2010 & 12/2/2010	To Date
@@ -114,7 +114,7 @@
 114	Mar A Lago Club, Inc	Palm Beach, Florida	Corporation	President/Treasurer/Secretary	4/16/96	To Date
 115	Mar A Lago Club, L.L.C.	New York, NY	LLC	Member/President	1/14/10	To Date
 116	Midland Associates	New York, NY	Partnership	Partner	5/15/68	To Date
-117	Miss Universe L.P., L.L.L.P. (Formerly Trump Pageants, L.P.)	New York, NY	Partnership	Partner	Oct-96	To Date
+117	Miss Universe L.P., L.L.L.P. (Formerly Trump Pageants, L.P.)	New York, NY	Partnership	Partner	10/1/96	To Date
 118	Nitto World Co., Limited	Turnberry, Scotland	Foreign Entity	Director	6/11/14	To Date
 119	Ocean Development Member Inc.	New York, NY	Corporation	President/Director	3/6/07	To Date
 120	Ocean Development Services LLC	New York, NY	LLC	Member	3/6/07	To Date
@@ -137,7 +137,7 @@
 137	Scotland Acquisitions LLC	New York, NY	LLC	Member/President	3/21/06	To Date
 138	Sentient Jets LLC (Now/Known/As Trump Jets LLC)	New York, NY	LLC	Member	9/25/08	To Date
 139	Sentient Jets Member Corp	New York, NY	Corporation	President/Director	9/25/08	To Date
-140	Seven Springs LLC	New York, NY	LLC	President	Dec-95	To Date
+140	Seven Springs LLC	New York, NY	LLC	President	12/1/95	To Date
 141	Shore Haven Management Corp	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
 142	Shore Haven Apt#1,Inc	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
 143	Shore Haven Shopping Cener LLC	New York, NY	LLC	Member	11/22/95	To Date
@@ -145,7 +145,7 @@
 145	South Beach Venture LLC (fka THC Marks Rio LLC)	New York, NY	LLC	President	8/15/13	11/20/13
 146	South Beach Venture Member Com (fka THC Marks Rio Member Corp)	New York, NY	Corporation	President/Chairman/Director	7/10/2013 & 8/15/13 & 8/15/13	11/20/13
 147	Sussex Hall, inc.	New York, NY	Corporation	Director/Vice President	8/1/69	To Date
-148	Restaurant 40 LLC	New York, NY	LLC	Member/President	12/21/2011 & 21/24/11	To Date
+148	Restaurant 40 LLC	New York, NY	LLC	Member/President	12/21/2011 & 12/24/11	To Date
 149	Restaurant 40 Member Corp	New York, NY	Corporation	President/Director/Chairman/Treasurer/Secretary	12/24/11	To Date
 150	T International Realty LLC (dba Trump international Realty)	New York, NY	LLC	Member/President	9/12/12	To Date
 151	Tag Air, Inc.	New York, NY	Corporation	President/Director	8/24/10	To Date
@@ -187,7 +187,7 @@
 187	THC Venture I Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	3/14/14	To Date
 188	THC Venture II Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	3/14/14	To Date
 189	THC Venture III Managing Member Corp.	New York, NY	Corporation	Chairman/Director/President	10/27/14	To Date
-190	The Donald J. Trump Foundation, Inc.	New York, NY	Non profit	Director	2/18/87	To Date
+190	The Donald J. Trump Foundation, Inc.	New York, NY	Non Profit	Director	2/18/87	To Date
 191	The Trump Corporation	New York, NY	Corporation	Director/President/Chairman	7/30/80	To Date
 192	The Trump Follies Member Inc.	New York, NY	Corporation	Chairman/Director/President	12/13/10	To Date
 193	The Trump Equitable Fifth Avenue Company	New York, NY	Partnership	Partner	1/30/80	To Date

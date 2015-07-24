@@ -1,9 +1,6 @@
 require './main'
 require 'date'
 
-def usParse string
-  string
-end
 
 Location.create(id: 1, name: "New York, NY")
 Location.create(id: 2, name: "South Carolina")
@@ -27,12 +24,11 @@ Position.create(id: 7, name: "Member")
 Position.create(id: 8, name: "Vice President")
 Position.create(id: 9, name: "Partner")
 
+# Organization.create(id: 1, name:"4 Shadow Tree Lane LLC", location_id: 1, type: Organization.LLC)
+# Organization.create(id: 2, name:"4 Shadow Tree Lane Member Corp", location_id: 2, type: Organization.Corporation)
 
-Organization.create(id: 1, name:"4 Shadow Tree Lane LLC", location_id: 1, type: Organization.LLC)
-Organization.create(id: 2, name:"4 Shadow Tree Lane Member Corp", location_id: 2, type: Organization.Corporation)
-
-OrganizationPosition.create(organization_id:1,position_id:1,start: Date.strptime("9/26/12", "%m/%d/%y"))
-OrganizationPosition.create(organization_id:2,position_id:1,start: Date.strptime("9/26/12", "%m/%d/%y"))
-OrganizationPosition.create(organization_id:2,position_id:2,start: Date.strptime("9/26/12", "%m/%d/%y"))
-OrganizationPosition.create(organization_id:2,position_id:4,start: Date.strptime("9/26/12", "%m/%d/%y"))
+# OrganizationPosition.create(organization_id:1,position_id:1,start: Date.strptime("9/26/12", "%m/%d/%y"))
+# OrganizationPosition.create(organization_id:2,position_id:1,start: Date.strptime("9/26/12", "%m/%d/%y"))
+# OrganizationPosition.create(organization_id:2,position_id:2,start: Date.strptime("9/26/12", "%m/%d/%y"))
+# OrganizationPosition.create(organization_id:2,position_id:4,start: Date.strptime("9/26/12", "%m/%d/%y"))
 

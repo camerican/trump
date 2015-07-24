@@ -38,11 +38,11 @@ ActiveRecord::Schema.define(version: 20150723181829) do
   create_table "organizations", force: :cascade do |t|
     t.string  "name"
     t.integer "location_id"
-    t.integer "type"
+    t.integer "category"
   end
 
+  add_index "organizations", ["category"], name: "index_organizations_on_category"
   add_index "organizations", ["location_id"], name: "index_organizations_on_location_id"
-  add_index "organizations", ["type"], name: "index_organizations_on_type"
 
   create_table "positions", force: :cascade do |t|
     t.string "name"

@@ -3,7 +3,7 @@ class ConfigureInitialSchema < ActiveRecord::Migration
     create_table :organizations do |t|
       t.string :name
       t.integer :location_id, index: true, foreign_key: true
-      t.integer :type, default: nil, index: true
+      t.integer :category, default: nil, index: true
     end
 
     create_table :locations do |t|

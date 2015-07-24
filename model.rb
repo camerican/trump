@@ -2,8 +2,8 @@ class Organization < ActiveRecord::Base
   has_many :organization_positions
   has_many :positions, through: :organization_positions
   has_one :location
-  enum type: { :LLC => 0, :Corporation => 1, :"Foreign Entity" => 2, :Partnership => 3 }
- # enum type: [ :LLC, :Corporation, :Foreign, :Partnership ]
+  enum category: { :LLC => 0, :Corporation => 1, :"Foreign Entity" => 2, :Partnership => 3, :"Non Profit" => 4 }
+
 end
 
 class Position < ActiveRecord::Base
