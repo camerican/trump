@@ -5,7 +5,7 @@ Classy Quotes /quotes	quotes.erb
 Team	/team	team.erb
 
 
-Welcome to Planet Trump, the top notch website dedicated to the greatest businessman in the world and the soon-to-be President of the United States.
+Welcome to Planet Trump, the web's classiest, top notch, most critically acclaimed website.  To reach such rarified distinction dedicated to the greatest businessman in the world and the soon-to-be President of the United States.
 
 We are a collection of aspiring multi-millionaires, xenophobes, and wig enthusiasts looking to spread the Gospel of Our Lord and Savior Donald J(esus) Trump.  The American Dream is dead and we now require a biblical figure to resurrect it and Make America Great Again &copyright;
 

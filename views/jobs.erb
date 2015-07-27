@@ -1,3 +1,8 @@
+<% require 'date' %>
 <h1>Jobs Here</h1>
 
 <p>This will contain our randomized Trump Job generator</p>
+
+<a href="/jobs">Create a New Job</a><br />
+
+<%= $donald.sample %> is a <span class="position"><%= @orgpos.position.name %></span> at <span class="organization"><%= @orgpos.organization.name %></span> based in <span class="location"><%= @orgpos.organization.location.name %></span>.  He has served in the role since <span class="start"><%= @orgpos.start.inspect %></span>.
