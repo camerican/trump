@@ -5,6 +5,32 @@ require './main'
 f = File.new ('./raw.data.txt')
 a = f.readlines
 buffer = "require './main'\nrequire 'date'\n\n"
+
+buffer += <<-HEREDOC
+Location.create(id: 1, name: "New York, NY")
+Location.create(id: 2, name: "South Carolina")
+Location.create(id: 3, name: "Atlantic City, NJ")
+Location.create(id: 4, name: "Bermuda")
+Location.create(id: 5, name: "Palm Beach, Florida")
+Location.create(id: 6, name: "Waterbury, CT")
+Location.create(id: 7, name: "St. Martin, French West India")
+Location.create(id: 8, name: "Turnberry, Scotland")
+Location.create(id: 9, name: "Brazil")
+Location.create(id: 10, name: "British Columbia (Canada)")
+Location.create(id: 11, name: "Doonbeg, Ireland")
+
+Position.create(id: 1, name: "President")
+Position.create(id: 2, name: "Director")
+Position.create(id: 3, name: "Secretary")
+Position.create(id: 4, name: "Chairman")
+Position.create(id: 5, name: "Treasurer")
+Position.create(id: 6, name: "Secretary")
+Position.create(id: 7, name: "Member")
+Position.create(id: 8, name: "Vice President")
+Position.create(id: 9, name: "Partner")
+
+HEREDOC
+
 a.each do | line | 
   #p[0] organization.id
   #p[1] organization.name
@@ -51,6 +77,6 @@ a.each do | line |
 end
 f.close
 
-o = File.new("./seeds2.rb", "w+")
+o = File.new("./seeds.rb", "w+")
 o.write buffer
 o.close
