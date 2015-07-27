@@ -6,12 +6,14 @@ This site is an experimental viral web campaign built in Ruby on a Sinatra frame
 
 To get up and running with the project, you can set up your local database as follows:
 
-* bundle exec rake db:migrate
-* ruby seeds.rb
-* ruby data.read.rb
-* ruby seeds2.rb
-
-^(The following is from #1)
+```
+#run migration
+bundle exec rake db:migrate 
+#generate seed file
+ruby data.read.rb #generate
+#load seed data
+ruby seeds.rb
+```
 
 ## Page Layout
 
